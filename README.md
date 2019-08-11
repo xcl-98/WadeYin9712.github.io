@@ -16,17 +16,17 @@ I am supervised by Prof. [Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/) in UC
   
 ## Publication
 * Interactive Multi-Grained Joint Model for Targeted Sentiment Analysis. <br> 
-**Da Yin<sup>*</sup>**, Xiao Liu<sup>*</sup>, Xiaojun Wan. ACM International Conference on Information and Knowledge Management (CIKM 2019). **Full Paper**. **Oral**. (Acceptance Rate: 19.4%) [Paper] [Code] 
+**Da Yin<sup>*</sup>**, Xiao Liu<sup>*</sup>, Xiaojun Wan. ACM International Conference on Information and Knowledge Management (CIKM 2019). **Full Paper**. **Oral**. (Acceptance Rate: 19.4%) [Paper] [Code] [Slides]
 
 * A Soft Label Strategy for Target-Level Sentiment Classification. <br>
-**Da Yin**, Xiao Liu, Xiuyu Wu, Baobao Chang. 10th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA@NAACL 2019). **Long Paper**. **Oral**. [Paper] [Code]
+**Da Yin**, Xiao Liu, Xiuyu Wu, Baobao Chang. 10th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA@NAACL 2019). **Long Paper**. **Oral**. [Paper] [Code] [Slides]
 
 ## Manuscript
 * VisualBERT: A Simple and Performant Baseline for Vision and Language. <br>
 Liunian Harold Li, Mark Yatskar, **Da Yin**, Cho-Jui Hsieh, Kai-Wei Chang. [Paper] [Code]
 
 * Interactive Neural Networks: Leveraging Part-of-Speech Information to Extract Aspect Term. <br>
-**Da Yin**, Dehong Ma, Xiao Liu, Baobao Chang.
+**Da Yin**, Xiao Liu, Baobao Chang.
 
 ## Award
 * **06/2019** Shouren Chen Research Scholarship
