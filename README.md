@@ -12,7 +12,7 @@ Email Address: wade_yin9712@pku.edu.cn
   * Supervised by Prof. [Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/)
   * Funded by [UCLA CSST Scholarship](https://r.csst.ucla.edu/) ($5343)
   
-* **09/2016-present,**    Undergraduate student, Peking University.
+* **09/2016-present,**    Undergraduate Student, Peking University.
   * Major: School of Foreign Language (GPA: 3.79/4.0)
   * Minor: School of Electronics Engineering and Computer Science (EECS) (GPA: 3.75/4.0)
   
