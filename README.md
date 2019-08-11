@@ -5,6 +5,8 @@ My research interests lie in natural language processing, data mining, machine l
 
 I am supervised by Prof. [Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/) in UCLA, Prof. [Xiaojun Wan](https://wanxiaojun.github.io/) and Prof. [Baobao Chang](https://scholar.google.com.au/citations?hl=en&user=LaKNyhQAAAAJ&view_op=list_works&sortby=pubdate) in Peking University. If you are interested, please don't hesitate to contact me!
 
+Email Address: wade_yin9712@pku.edu.cn
+
 ## Education
 * **07/2019-present,**    Research Intern, UCLA.
   * Supervised by Prof. [Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/)
