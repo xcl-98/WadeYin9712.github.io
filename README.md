@@ -24,11 +24,11 @@ Email Address: wade_yin9712@pku.edu.cn
 **Da Yin**, Xiao Liu, Xiuyu Wu, Baobao Chang. 10th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA@NAACL 2019). **Long Paper**. **Oral**. [Paper] [Code] [Slides]
 
 ## Manuscript
-* VisualBERT: A Simple and Performant Baseline for Vision and Language. <br>
-Liunian Harold Li, Mark Yatskar, **Da Yin**, Cho-Jui Hsieh, Kai-Wei Chang. [Paper] [Code]
+* **VisualBERT**: A Simple and Performant Baseline for Vision and Language. <br>
+Liunian Harold Li, Mark Yatskar, **Da Yin**, Cho-Jui Hsieh, Kai-Wei Chang. Work in progress. [Paper] [Code]
 
 * Interactive Neural Networks: Leveraging Part-of-Speech Information to Extract Aspect Term. <br>
-**Da Yin**, Xiao Liu, Baobao Chang.
+**Da Yin**, Xiao Liu, Baobao Chang. Work in progress.
 
 ## Award
 * **06/2019** Shouren Chen Research Scholarship
