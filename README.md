@@ -21,7 +21,7 @@ Email Address: wade_yin9712@pku.edu.cn
 **Da Yin<sup>*</sup>**, Xiao Liu<sup>*</sup>, Xiaojun Wan. ACM International Conference on Information and Knowledge Management (CIKM 2019). **Full Paper**. **Oral**. (Acceptance Rate: 19.4%) [Paper] [Code] [Slides]
 
 * A Soft Label Strategy for Target-Level Sentiment Classification. <br>
-**Da Yin**, Xiao Liu, Xiuyu Wu, Baobao Chang. 10th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA@NAACL 2019). **Long Paper**. **Oral**. [Paper] [Code] [Slides]
+**Da Yin**, Xiao Liu, Xiuyu Wu, Baobao Chang. 10th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA@NAACL 2019). **Long Paper**. **Oral**. \[[Paper](https://www.aclweb.org/anthology/papers/W/W19/W19-1302/)\] [Code] [Slides]
 
 ## Manuscript
 * **VisualBERT**: A Simple and Performant Baseline for Vision and Language. <br>
