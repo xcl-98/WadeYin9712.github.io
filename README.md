@@ -25,7 +25,7 @@ Email Address: wade_yin9712@pku.edu.cn
 
 ## Manuscript
 * **VisualBERT**: A Simple and Performant Baseline for Vision and Language. <br>
-Liunian Harold Li, Mark Yatskar, **Da Yin**, Cho-Jui Hsieh, Kai-Wei Chang. Work in progress. [Paper](https://arxiv.org/abs/1908.03557/) [Code]
+Liunian Harold Li, Mark Yatskar, **Da Yin**, Cho-Jui Hsieh, Kai-Wei Chang. Work in progress. \[[Paper]\](https://arxiv.org/abs/1908.03557/) [Code]
 
 * Interactive Neural Networks: Leveraging Part-of-Speech Information to Extract Aspect Term. <br>
 **Da Yin**, Xiao Liu, Baobao Chang. Work in progress.
